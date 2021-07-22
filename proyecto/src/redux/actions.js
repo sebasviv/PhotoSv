@@ -1,0 +1,3 @@
+export const GET_ALL_POSTS = "GET_ALL_POSTS"
+export const GET_ALL_SERVICES= "GET_ALL_SERVICES"
+export const GET_ALL_PHOTOS= "GET_ALL_PHOTOS"
